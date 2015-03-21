@@ -1,2 +1,2 @@
 #!/bin/sh
-PATH=../gyp:$PATH gyp project.gyp --depth 1
+PATH=../gyp:$PATH gyp mpx.gyp --depth 1
